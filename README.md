@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavishya Tiwari</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">I am a 3rd-year BTech student at IIT Indore</h3>
 
-- 🌱 I’m currently learning **DataBase Management**
-
-- 💬 Ask me about **Django, Html,CSS , Javascript**
-
+- 🌱 I am a passionate c++ programmer and a full-stack Django web developer
 - 📫 How to reach me **bhavishyatiwari2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
